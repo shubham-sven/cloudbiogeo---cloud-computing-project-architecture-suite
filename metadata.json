@@ -1,0 +1,6 @@
+{
+  "name": "CloudBioGeo - Cloud Computing Project Architecture Suite",
+  "description": "Production-grade cloud architecture blueprints, serverless pipelines, containerized models, and interactive consoles for Gene Expression Cancer Diagnosis and Satellite Earth Observation with AWS, GCP, Terraform IaC, and disaster recovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
