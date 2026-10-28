@@ -87,7 +87,7 @@ function MainApp() {
                 <span>·</span>
                 <span className="font-mono text-cyan-400">{user.email}</span>
                 <span>·</span>
-                <span className="text-emerald-400">FIDO2/TOTP Verified</span>
+                <span className="text-amber-400">Demo app session</span>
               </div>
               <div className="flex items-center gap-3 text-[11px] font-mono">
                 <span>STS Token: {user.tokenExpiry}</span>
